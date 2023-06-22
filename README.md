@@ -1,0 +1,1 @@
+Answers to individual tasks solved in the subject of object-oriented programming in C++ during bachelors degree.

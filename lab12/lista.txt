@@ -1,0 +1,9 @@
+S Jan Slomka slomka@wp.pl 563492 2017
+P Piotr Zwierz zwierz@wp.pl 12 przed1.przed2.przed3.przed4.przed5
+S Stan Lokiec lokiec@wp.pl 932821 2020
+P Lukasz Tyczka tyczka@wp.pl 7 przed1.przed2.przed3.przed4.przed5.przed6.przed7
+P Mateusz Podlaski podlaski@wp.pl 85 przed1.przed2.przed3
+S Mak Artur artur@wp.pl 912321 2020
+S Ryk Renault renault@wp.pl 111111 2020
+S Pat Patowski patowski@wp.pl 393939 2020
+P Miczal Lydka lydka@wp.pl 17 przed1.przed2.przed3.przed4.przed5.przed6.przed7.przed8
